@@ -3,6 +3,8 @@
 ```shell
 docker run -v /Users/toquery/Projects/Example/example-react-oauth2-authorization-code-pkce/dist:/usr/share/nginx/html -p 5173:5173 nginx
 ```
+- https://github.com/authts/oidc-client-ts
+- https://github.com/authts/react-oidc-context
 
 # React + TypeScript + Vite
 
